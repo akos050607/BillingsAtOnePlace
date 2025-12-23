@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "soBj2J8Bnes=",
+  "success": true,
+  "projectFilePath": "/home/akos050607/cs_projects/BillingsAtOnePlace/BillingsAtOnePlace/BillingsAtOnePlace.csproj",
+  "expectedPackageFiles": [
+    "/home/akos050607/.nuget/packages/microsoft.aspnetcore.openapi/9.0.10/microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "/home/akos050607/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

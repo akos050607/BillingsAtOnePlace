@@ -1,0 +1,9 @@
+{"Date":"2025-12-23T16:50:06.397132+01:00","App":"Notifier","Shop":"Revolut","RawText":"kaptál 5000 forintot wow!","Amount":5000,"Category":"Egyéb","Type":"income"}
+{"Date":"2025-12-23T16:50:33.5134852+01:00","App":"Notifier","Shop":"spár","RawText":"kaptál 5000 forintot a spárból!","Amount":5000,"Category":"Élelmiszer","Type":"income"}
+{"Date":"2025-12-23T22:15:42.1926244+01:00","App":"Revolut","Shop":"Ismeretlen","RawText":"Has requested 4,600 HUF \uD83D\uDE4F","Amount":4600,"Category":"Fizetés","Type":"expense"}
+{"Date":"2025-12-23T22:15:43.1661385+01:00","App":"Notifier","Shop":"revolut","RawText":"fizettel 400 forintot","Amount":400,"Category":"Fizetés","Type":"expense"}
+{"Date":"2025-12-23T22:20:02.1693832+01:00","App":"Revolut","Shop":"Apa","RawText":"Sent you HUF100. Tap to say thank you \uD83D\uDCB0","Amount":100,"Category":"Fizetés","Type":"income"}
+{"Date":"2025-12-23T22:28:58.2022006+01:00","App":"Revolut","Shop":"Ismeretlen","RawText":"Reacted \uD83D\uDC4D to your HUF100 payment","Amount":100,"Category":"Egyéb","Type":"expense"}
+{"Date":"2025-12-23T23:39:38.1939728+01:00","App":"Revolut","Shop":"Ismeretlen","RawText":"Sent you HUF1. Tap to say thank you \uD83D\uDCB0","Amount":1,"Category":"Egyéb","Type":"income"}
+{"Date":"2025-12-24T00:21:41.036062+01:00","App":"Revolut","Shop":"Ismeretlen","RawText":"You've received 1 HUF from Jónás \uD83E\uDD11","Amount":1,"Category":"Egyéb","Type":"income"}
+{"Date":"2025-12-24T00:27:12.0827676+01:00","App":"Notifier","Shop":"revolut","RawText":"fizettel 40000000 forintot","Amount":40000000,"Category":"payment","Type":"expense"}
