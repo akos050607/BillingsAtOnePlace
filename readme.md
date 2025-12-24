@@ -10,6 +10,13 @@ This is a custom-built, locally-networked system (a "Home Lab" project) that **a
 
 No more manual Excel spreadsheets: whenever you receive a bank notification on your phone (Revolut, OTP, etc.), the system captures it, sends it to your PC/Server, where AI analyzes, categorizes, and saves it.
 
+## Demonstration
+
+[Screencast from 2025-12-24 13-30-42.webm](https://github.com/user-attachments/assets/20453cc4-328e-4c52-a28e-753bcdfdb765)
+
+<img width="270" height="500" alt="Screenshot_20251224-133433" src="https://github.com/user-attachments/assets/5e81e22b-9b5f-4259-b478-0b299fce5615" />
+<img width="270" height="500" alt="Screenshot_20251224-133445" src="https://github.com/user-attachments/assets/d9a505ec-d131-4d29-a943-aa2d7a1256d5" />
+
 ---
 
 ## ⚙️ How It Works
