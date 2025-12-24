@@ -31,3 +31,4 @@
 /home/akos050607/cs_projects/BillingsAtOnePlace/BillingsAtOnePlace/obj/Debug/net9.0/BillingsAtOnePlace.genruntimeconfig.cache
 /home/akos050607/cs_projects/BillingsAtOnePlace/BillingsAtOnePlace/obj/Debug/net9.0/ref/BillingsAtOnePlace.dll
 /home/akos050607/cs_projects/BillingsAtOnePlace/BillingsAtOnePlace/bin/Debug/net9.0/secrets.json
+/home/akos050607/cs_projects/BillingsAtOnePlace/BillingsAtOnePlace/obj/Debug/net9.0/BillingsAtOnePlace.sourcelink.json
