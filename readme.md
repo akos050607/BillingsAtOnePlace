@@ -4,7 +4,6 @@
 ![.NET](https://img.shields.io/badge/.NET-9.0-purple?style=flat-square&logo=dotnet)
 ![MacroDroid](https://img.shields.io/badge/Mobile-MacroDroid-green?style=flat-square&logo=android)
 ![AI](https://img.shields.io/badge/AI-OpenRouter-orange?style=flat-square&logo=openai)
-![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
 This is a custom-built, locally-networked system (a "Home Lab" project) that **automatically records financial transactions**. 
 
